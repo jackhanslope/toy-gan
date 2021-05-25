@@ -1,0 +1,11 @@
+name: toy-gan
+channels:
+  - pytorch
+dependencies:
+  - python=3
+  - pytorch=1.4.0
+  - cpuonly
+  - pandas
+  - matplotlib
+  - jupyter
+  - torchvision=0.5.0
