@@ -9,3 +9,6 @@ dependencies:
   - matplotlib
   - jupyter
   - torchvision
+  - pip
+  - pip:
+    - nbdime
