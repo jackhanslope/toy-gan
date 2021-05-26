@@ -1,5 +1,11 @@
+# python/jupyter
 .ipynb_checkpoints/
-data/
+*__sandbox.ipynb
 __pycache__/
+
+# data/models
+data/
 model/
+
+# misc
 .lvimrc
