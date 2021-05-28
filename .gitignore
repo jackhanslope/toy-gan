@@ -3,9 +3,10 @@
 *__sandbox.ipynb
 __pycache__/
 
-# data/models
+# data/models/images
 data/
 model/
+images/
 
 # misc
 .lvimrc
