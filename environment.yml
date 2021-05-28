@@ -1,6 +1,7 @@
 name: toy-gan
 channels:
   - pytorch
+  - plotly
 dependencies:
   - python=3
   - pytorch
@@ -9,6 +10,10 @@ dependencies:
   - matplotlib
   - jupyter
   - torchvision
+  - plotly
+  - statsmodels
+  - psutil
+  - plotly-orca
   - pip
   - pip:
     - nbdime
